@@ -1,2 +1,2 @@
 print("hello worlds")
-print("Deployed successfully")
+print("Deployed")
